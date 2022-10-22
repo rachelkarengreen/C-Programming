@@ -1,4 +1,5 @@
-//Armstrong no or not
+//Armstrong Number
+//Author : Sruthi Sagar
 
 #include<stdio.h>
 void main()
